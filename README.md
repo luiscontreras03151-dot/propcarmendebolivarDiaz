@@ -1,2 +1,2 @@
 # propcarmendebolivarDiaz
-introduccion a la programacioni javacrio, HTML, CSS3
+introduccion a la programacioni javacriP, HTML, CSS3
